@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      MIT算法导论01总结
+subtitle:   
+date:       2019-11-30
+author:     Sheroy
+header-img: img/post-bg-rwd2.jpg
+catalog: true
+tags:
+    - algorithm
+---
+
+
 ## 分析算法--理论基础
 - 本门课最在乎的是性能，程序设计中 用户友好、时间成本、可扩展性等比性能更重要
 - 性能决定算法是否可行，基本标准
